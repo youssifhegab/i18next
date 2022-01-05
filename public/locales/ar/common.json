@@ -1,0 +1,8 @@
+{
+  "h1": "مثال بسيط",
+  "change-locale": "تغيير اللغة",
+  "to-second-page": "إلى الصفحة الثانية",
+  "error-with-status": "حدث خطأ {{statusCode}} على الخادم",
+  "error-without-status": "حدث خطأ في الخادم",
+  "title": "الصفحة الرئيسية"
+}
